@@ -1,8 +1,10 @@
-# Original porject
+# Original project
 
 [bypass-paywalls-chrome by @iamadamdev](https://github.com/iamadamdev/bypass-paywalls-chrome) 
 
-## Dev process - `buils-folder.sh` for files in folder
+## Dev process - unpacked Google Chrome extension 
+
+Created build file: `buils-folder.sh` will create unpacked extension in folder: build/chrome-extension
 
 1. Go go folder with script:
 
@@ -29,7 +31,9 @@ chmod +x build-folder.sh
 
 Wait for Completion: Depending on what the script does, it may take some time to complete. You should see output in the terminal indicating the progress of the script.
 
-## Dev process - `buils.sh` for archive
+## Dev process - original packages for Google Chrome and Firefox extensions
+
+Original build script `buils.sh` for archive
 
 1. You have 7zip installed: 
 
